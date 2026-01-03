@@ -62,7 +62,7 @@ Neste projeto, apliquei conceitos mais avançados de Front-End:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carolinarlima)
 #
 Lógica desenvolvida por **Carolina Lima** e HTML e CSS desenvolvidos pela **Alura**. <br>
-Projeto desenolvido pela **Alura** no curso **Lógica de Programação - Explore Funções e Listas**
+Projeto desenvolvido pela **Alura** no curso **Lógica de Programação - Explore Funções e Listas**
 <br>
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="100" height="100"/>
 <br>
