@@ -30,7 +30,7 @@ Você pode testar a aplicação hospedada na Vercel:
 ## 🚀 Diferenciais e Funcionalidades
 
 * **Manipulação de DOM:** O jogo não utiliza mais janelas de alerta ou prompt, interagindo diretamente com os elementos da página.
-* **Web Speech API:** Implementação de síntese de voz para narrar as instruções e resultados, tornando a experiência mais imersiva e acessível.
+* **Responsive Voice:** Implementação de síntese de voz para narrar as instruções e resultados, tornando a experiência mais imersiva e acessível.
 * **Lógica de Reinicialização:** Gerenciamento de estado para limpar o campo de entrada e sortear um novo número sem precisar atualizar a página.
 * **Design Responsivo:** Interface limpa, moderna e adaptável para diferentes tamanhos de tela.
 
